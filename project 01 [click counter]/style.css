@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.click{
+    height: 50vh; /* full screen height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#text{
+    text-align: center;
+    color: black;
+    font-size: 10vmin;
+    height: 7rem;
+
+}
+#btn{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 3rem;
+}
+.count{
+    text-align: center;
+   
+    align-items: center;
+    font-size: 8vmin;
+}
